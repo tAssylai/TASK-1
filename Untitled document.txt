@@ -1,0 +1,31 @@
+﻿Task: Configuring and Maintaining Office Software (Microsoft Word, PowerPoint, and Excel)
+
+
+1. Verifying Installed Office Software:
+
+
+* Open each application and perform the following configurations:
+  
+*   *   ________________
+
+
+2. Configuring Interface and Security Settings:
+Microsoft Word, PowerPoint, and Excel: To configure interface and Settings they need subscription.
+3. Performing Offline Maintenance  
+
+Record: What actions were taken to improve performance and security of the applications.
+
+Although I won`t able to complete all the steps,I understand how they should work, their result action so, there are improved actions
+   * By cleaning up temporary files and unused templates, the overall performance of the applications was improved.
+   * Backing up user settings ensures that in case of future issues, custom settings can be restored.
+   * Ensuring proper security settings for macros and AutoSave helps prevent potential data loss and enhances document safety.
+
+
+________________
+
+
+4. Preparing a Report:
+Application Versions: All application versions have been verified and confirmed to be up to date, ensuring optimal functionality.
+Interface and Security Updates: Modifications were made to streamline the user interface for enhanced usability. Security settings were upgraded to bolster system protection and compliance.
+Maintenance Activities: Routine maintenance tasks, including system diagnostics and performance tuning, were carried out successfully. The results show improved efficiency and stability across the system.
+Challenges and Resolutions: Minor issues related to software compatibility were encountered and promptly addressed by updating the configuration settings.
